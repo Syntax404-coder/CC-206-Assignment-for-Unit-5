@@ -19,5 +19,3 @@ If you are new to Flutter, these links will guide you through the process of set
 For more details on Flutter development, including tutorials, samples, and API references, visit the official [Flutter documentation](https://docs.flutter.dev/).
 
 ---
-
-This version is more organized with concise section headers and clear explanations.
